@@ -1,0 +1,81 @@
+inputModule1:
+  class: File
+  path: js/read-potential-cases-i2b2.js
+inputModule2:
+  class: File
+  path: python/depression-xrecurr---primary.py
+inputModule3:
+  class: File
+  path: python/depression-anxiety---primary.py
+inputModule4:
+  class: File
+  path: python/depression---primary.py
+inputModule5:
+  class: File
+  path: python/depression-xmajor---primary.py
+inputModule6:
+  class: File
+  path: python/moderate-depression---primary.py
+inputModule7:
+  class: File
+  path: python/current-depression---primary.py
+inputModule8:
+  class: File
+  path: python/xdepressive-depression---primary.py
+inputModule9:
+  class: File
+  path: python/depression-xsevere---primary.py
+inputModule10:
+  class: File
+  path: python/depression-xother---primary.py
+inputModule11:
+  class: File
+  path: python/depression-dementium---primary.py
+inputModule12:
+  class: File
+  path: python/depression-depressed---primary.py
+inputModule13:
+  class: File
+  path: python/reactive-depression---primary.py
+inputModule14:
+  class: File
+  path: python/depression-xmild---primary.py
+inputModule15:
+  class: File
+  path: python/depression-agitated---primary.py
+inputModule16:
+  class: File
+  path: python/depression-psych---primary.py
+inputModule17:
+  class: File
+  path: python/depression-[x]dysthymia---primary.py
+inputModule18:
+  class: File
+  path: python/xendogenous-depression---primary.py
+inputModule19:
+  class: File
+  path: python/depression-unspecified---primary.py
+inputModule20:
+  class: File
+  path: python/affective-depression---primary.py
+inputModule21:
+  class: File
+  path: python/depression-masked---primary.py
+inputModule22:
+  class: File
+  path: python/depression-reaction---primary.py
+inputModule23:
+  class: File
+  path: python/depression-first---primary.py
+inputModule24:
+  class: File
+  path: python/postnatal-depression---primary.py
+inputModule25:
+  class: File
+  path: python/seasonal-depression---primary.py
+inputModule26:
+  class: File
+  path: python/brief-depression---primary.py
+inputModule27:
+  class: File
+  path: python/output-cases.py
